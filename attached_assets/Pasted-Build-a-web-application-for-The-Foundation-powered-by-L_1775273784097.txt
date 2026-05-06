@@ -1,0 +1,291 @@
+Build a web application for “The Foundation” powered by LPT Realty, with an integrated AI chatbot called **S2**.
+
+This is not a generic real estate website.
+It should feel calm, selective, useful, and structured.
+
+Tone:
+
+* No hype
+* No pressure
+* Human
+* Direct
+
+---
+
+## CORE POSITION
+
+This platform exists to help agents:
+
+* reduce unnecessary cost
+* use better tools properly
+* build a more consistent business
+
+Not to recruit them.
+Not to convince them.
+
+If they improve, everything else follows.
+
+---
+
+## APP STRUCTURE
+
+Create these routes:
+
+* `/`
+* `/leadership`
+* `/realtors`
+* `/transition`
+* `/s2`
+* `/contact`
+
+---
+
+## HOME ROUTE
+
+Purpose:
+
+Introduce The Foundation clearly.
+
+Requirements:
+
+* clean minimal layout
+* short grounded positioning statement
+* two clear paths:
+
+  * Leadership
+  * Realtors
+
+Also make visible that **S2 is a chatbot** and can be accessed at any time for practical questions.
+
+---
+
+## LEADERSHIP ROUTE
+
+Behavior:
+
+* page loads with blurred / distorted background
+* centered modal asks for password
+
+Password: `Founders`
+
+If password is correct:
+
+* remove blur with smooth fade
+* reveal full content
+
+If password is incorrect:
+
+* small shake animation
+* subtle invalid state
+
+Content focus:
+
+* why they were approached
+* this is about building markets properly
+* not for everyone
+* looking for the right people
+* quiet invitation to start a conversation
+
+S2 can also be referenced here as available for follow-up questions.
+
+---
+
+## REALTORS ROUTE
+
+Purpose:
+
+Speak to working agents who want better structure.
+
+Important:
+
+Do NOT emphasize recruiting.
+Do NOT emphasize revenue share.
+
+The page should communicate:
+
+* save money
+* better tools
+* real usage of those tools
+* more consistency
+* more stable business growth
+
+Core logic:
+
+As agents improve their actual business:
+
+* their work becomes more consistent
+* their results improve
+* their business becomes more stable
+
+This becomes visible.
+
+People around them notice.
+
+Conversations may happen naturally later, but that is not the focus of this page.
+
+Position clearly:
+
+Agents do not need to recruit.
+They need to improve.
+
+Everything else follows.
+
+Page sections:
+
+1. grounded explanation section
+2. calculator module
+3. practical tool usage section
+4. calm CTA
+
+Also mention that **S2 the chatbot** is available for questions about tools, onboarding, and day-to-day workflow.
+
+---
+
+## CALCULATOR MODULE
+
+Create a simple interactive calculator.
+
+Inputs:
+
+* deals per year
+* commission split
+* annual cap
+* monthly fees
+* transaction fees
+* franchise / royalty fee
+
+Outputs:
+
+* estimated current brokerage cost
+* estimated LPT cost
+* estimated savings
+
+Keep the UI simple and readable.
+
+---
+
+## TRANSITION ROUTE
+
+Purpose:
+
+Make brokerage transition feel manageable.
+
+Render 4 steps:
+
+1. Prepare
+2. Exit
+3. Onboard
+4. Launch
+
+Each step should have:
+
+* short explanatory text
+* clean layout
+* practical tone
+
+Also make clear that **S2** can answer transition questions at any stage.
+
+---
+
+## S2 ROUTE
+
+Position clearly:
+
+S2 is a chatbot.
+
+Description:
+
+S2 is the digital version of Stu.
+Direct, useful, grounded.
+
+S2 should be designed as a real working assistant, not a demo.
+
+It should be presented as able to help with:
+
+* LPT questions
+* onboarding
+* CRM usage
+* clause writing guidance
+* Ontario paperwork questions
+* OREA / RECO basics
+* general day-to-day workflow questions
+
+UI requirements:
+
+* chatbot interface
+* clear message area
+* input field
+* clean styling
+* easy access from all pages
+
+Optional:
+
+* floating chat button visible site-wide
+
+---
+
+## CONTACT ROUTE
+
+Simple page with:
+
+* name
+* email
+* short message
+
+Tone should remain calm and low pressure.
+
+---
+
+## DESIGN
+
+Use a clean, minimal interface.
+
+Visual direction:
+
+* soft spacing
+* strong readability
+* smooth transitions
+* no clutter
+* no corporate stock-photo look
+
+Colors:
+
+* Deep Green `#1F3D2B`
+* Warm Off-White `#F5F3EF`
+* Earth Tan `#C2A878`
+* Soft Blue `#3F6E8C`
+* Charcoal `#2B2B2B`
+
+---
+
+## UX
+
+* mobile responsive
+* clear navigation
+* visible chatbot access
+* smooth route transitions
+* simple forms
+* readable layout
+
+---
+
+## COPY RULES
+
+* short paragraphs
+* no hype
+* no urgency tactics
+* no em-dashes
+* no aggressive recruiting language
+
+---
+
+## FINAL FEEL
+
+This app should feel like:
+
+* a system that already works
+* a place people can explore safely
+* something available when they are ready
+
+Not a sales funnel.
+Not a pressure machine.
